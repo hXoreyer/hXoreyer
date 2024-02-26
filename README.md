@@ -5,4 +5,4 @@
 - :orange_book: Focusing on go
 - :ram: cdc
 - :meat_on_bone: Meat lover
-- :video_game: CSGO
+- :video_game: PS5
